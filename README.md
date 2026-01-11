@@ -80,7 +80,6 @@ The application will run on:
 
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 learning-react/
     public/          # Public files like index.html, images, etc.
